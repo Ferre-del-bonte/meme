@@ -1,0 +1,30 @@
+body{
+    background-color:black;
+}
+
+
+h1{
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+     font-style: normal;
+
+}
+.kat{
+    border: 5px solid white;
+    width: 100%;
+}
+.Foto1{
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 50px;
+}
+p{
+    color: white;
+    text-align: center;
+  
+}
